@@ -1,0 +1,4 @@
+f1_cache/
+*.sqlite
+__pycache__/
+*.pyc
